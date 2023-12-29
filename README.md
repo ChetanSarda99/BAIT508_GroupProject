@@ -1,7 +1,7 @@
 
 BAIT 508 - MBAN 2024 - UBC Sauder School of Business
 
-A very warm thanks to Professor Gene Moo Lee and teaching assistants Jaecheol Park and Xiaoke Zhang for allowing us to work on this project. They have been extremely helpful and the success of our project is owed to their guidance and hard work.
+A very warm thanks to Professor Gene Moo Lee and teaching assistants Jaecheol Park and Xiaoke Zhang for giving us the opportunity to work on this project. They have been extremely helpful and the success of our project is owed to their guidance and hard work.
 
 Project Report - https://docs.google.com/document/d/1WE6kOZtGQuQ4UqE7P1SLn72gWhc3bPrlVA4nP_MrwWY/
 
